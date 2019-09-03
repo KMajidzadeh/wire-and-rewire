@@ -1,0 +1,30 @@
+.footer {
+    margin-top: 0px;
+    vertical-align: center;
+    padding-top: 1rem;
+    background-color: #efefef;
+}
+
+.social-bar{
+    font-family: "Roboto";
+    text-align: right;
+    float: right;
+}
+.social-bar a{
+    vertical-align: center;
+    display: inline;
+}
+.social-bar .fa {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    font-size: 20px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
